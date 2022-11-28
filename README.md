@@ -1,4 +1,4 @@
-# ex2-template
+# ex-template
 A started template for JS project
 
 <h1>Your Name(s) Here</h1>
