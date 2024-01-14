@@ -1,6 +1,4 @@
-# ex-template
-A started template for JS project
-
+# readme - your personal information is mandatory (email or ID)
 <h1>Your Name(s) Here</h1>
 <p>Email: student@edu.hac.ac.il</p>
 
